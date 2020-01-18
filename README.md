@@ -6,6 +6,20 @@ A list of interesting on platform Lightning Web Components resources and code ex
 
 ---
 
+# Community Repos
+
+- [Timeline LWC](https://github.com/deejay-hub/timeline-lwc)
+
+  An interactive timeline for the Salesforce platform. https://medium.com/@dave_norris
+
+---
+
+# Interesting Locker Safe Resources
+
+- TBA
+
+---
+
 # Official Examples
 
 - [Salesforce Sample Gallery](https://trailhead.salesforce.com/sample-gallery)
