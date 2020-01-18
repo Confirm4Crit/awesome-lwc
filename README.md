@@ -1,2 +1,2 @@
 # awesome-lwc
-A list of interesting open source, on platform, Lightning Web Components 
+A list of interesting on platform Lightning Web Components resources and code examples
