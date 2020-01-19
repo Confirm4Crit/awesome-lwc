@@ -16,7 +16,12 @@ A list of interesting on platform Lightning Web Components resources and code ex
 
 # Interesting Locker Safe Resources
 
-- TBA
+- [Moment JS](https://momentjs.com/)
+
+- [Chart JS](https://www.chartjs.org/)
+
+- [D3](https://d3js.org/), a data visualization library.
+  - [C3](https://c3js.org/), a charting library dependent on D3
 
 ---
 
