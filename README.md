@@ -4,6 +4,8 @@ A list of interesting on platform Lightning Web Components resources and code ex
 
 "On platform" means resources specific to the SFDC platform, and not necessarily [LWC Open Source](https://lwc.dev/).
 
+Feel free to Fork, PR, and contribute to this list.
+
 ---
 
 # Community Repos
