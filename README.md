@@ -6,6 +6,8 @@ A list of interesting on platform Lightning Web Components resources and code ex
 
 Feel free to Fork, PR, and contribute to this list.
 
+Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
+
 ---
 
 # Community Repos
