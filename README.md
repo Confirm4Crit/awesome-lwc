@@ -67,7 +67,7 @@ As the Locker Service adjusts, I'll revisit this section to add resources that m
 
 - [Chroma.js](https://github.com/gka/chroma.js/)
 
-- [Signature Pad]9https://github.com/szimek/signature_pad)
+- [Signature Pad](https://github.com/szimek/signature_pad)
 
 ---
 
