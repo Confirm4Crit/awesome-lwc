@@ -44,6 +44,8 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 - [one-pub-sub-lwc](https://github.com/TheVishnuKumar/one-pub-sub-lwc)
 
   A Declarative PubSub Library for Lightning Web Component and Aura Component
+  
+ - [LWC Signature Pad](https://github.com/samkhan27/lwc-signature-pad)
 
 ---
 
@@ -55,7 +57,7 @@ As the Locker Service adjusts, I'll revisit this section to add resources that m
 
 - [Moment JS](https://momentjs.com/)
 
-- [Chart JS](https://www.chartjs.org/)
+- [Chart JS](https://www.chartjs.org/) JS Charing Libray
 
 - [D3](https://d3js.org/), a data visualization library.
 
@@ -64,6 +66,8 @@ As the Locker Service adjusts, I'll revisit this section to add resources that m
 - [Leaflet](https://leafletjs.com/)
 
 - [Chroma.js](https://github.com/gka/chroma.js/)
+
+- [Signature Pad]9https://github.com/szimek/signature_pad)
 
 ---
 
