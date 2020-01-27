@@ -44,8 +44,8 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 - [one-pub-sub-lwc](https://github.com/TheVishnuKumar/one-pub-sub-lwc)
 
   A Declarative PubSub Library for Lightning Web Component and Aura Component
-  
- - [LWC Signature Pad](https://github.com/samkhan27/lwc-signature-pad)
+
+- [LWC Signature Pad](https://github.com/samkhan27/lwc-signature-pad)
 
 ---
 
@@ -62,6 +62,8 @@ As the Locker Service adjusts, I'll revisit this section to add resources that m
 - [D3](https://d3js.org/), a data visualization library.
 
   - [C3](https://c3js.org/), a charting library dependent on D3
+
+- [ParaParse](https://github.com/mholt/PapaParse), a CSV parser, handles sloppy input and big files. (Use this)
 
 - [Leaflet](https://leafletjs.com/)
 
