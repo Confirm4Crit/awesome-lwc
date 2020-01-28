@@ -93,7 +93,7 @@ As the Locker Service adjusts, I'll revisit this section to add resources that m
 - [Component Documentation](https://developer.salesforce.com/docs/component-library/overview/components)
 - [Developer Documentation](https://developer.salesforce.com/docs/component-library/documentation/lwc)
 - [Play by Play Video: Understanding Lightning Web Components for Salesforce Developers](https://www.pluralsight.com/courses/play-by-play-understanding-lightning-web-components-salesforce-developers)
-- [Play by Play Video: Understanding Lightning Web Components for Salesforce Developers](https://www.pluralsight.com/courses/play-by-play-understanding-lightning-web-components-non-salesforce-developers)
+- [Play by Play Video: Understanding Lightning Web Components for Non-Salesforce Developers](https://www.pluralsight.com/courses/play-by-play-understanding-lightning-web-components-non-salesforce-developers)
 
 ---
 
