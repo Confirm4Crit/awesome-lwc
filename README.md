@@ -47,6 +47,10 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
 - [LWC Signature Pad](https://github.com/samkhan27/lwc-signature-pad)
 
+- [sfdc-ui-lookup-lwc](https://github.com/pozil/sfdc-ui-lookup-lwc)
+
+  Another lookup!
+
 ---
 
 # Locker Safe JS Resources
