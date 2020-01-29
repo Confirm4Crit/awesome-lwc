@@ -39,6 +39,7 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
   Filter and search Custom Metadata with LWC https://jlyon87.github.io/#/
 
 - [dynamicFieldsLWC](https://github.com/seanpat09/dynamicFieldsLWC)
+  
   A dynamic multi-line input table using LWC
 
 - [one-pub-sub-lwc](https://github.com/TheVishnuKumar/one-pub-sub-lwc)
