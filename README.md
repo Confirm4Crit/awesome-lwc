@@ -28,6 +28,10 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
 - [User Interactions with Platform Events and LWC](https://github.com/lucianostraga/userInteractions-platformEvents-lwc)
 
+- [LWC Listview](https://github.com/shliachtx/lwc-listview)
+
+  A dynamic datatable for use in flexipages or standalone 
+
 - [LWC Lookup Datatable](https://github.com/SFXD/LWC-Lookup-Datatable)
 
 - [LWC Lookup](https://github.com/jlyon87/lwc-lookup)
