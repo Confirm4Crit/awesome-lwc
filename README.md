@@ -12,6 +12,10 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
 # Community Repos
 
+- [Check if JS Lib compatable] (https://github.com/JesseGlover/Test-LWC-and-JS-Libraries/tree/master)
+
+- [Various LWC component usage] (https://github.com/JesseGlover/Salesforce-Lightning-Examples)
+
 - [Timeline LWC](https://github.com/deejay-hub/timeline-lwc)
 
   An interactive timeline for the Salesforce platform. https://medium.com/@dave_norris
@@ -70,7 +74,7 @@ As the Locker Service adjusts, I'll revisit this section to add resources that m
 
 - [D3](https://d3js.org/), a data visualization library.
 
-  - [C3](https://c3js.org/), a charting library dependent on D3
+- [C3](https://c3js.org/), a charting library dependent on D3
 
 - [ParaParse](https://github.com/mholt/PapaParse), a CSV parser, handles sloppy input and big files. (Use this)
 
@@ -78,8 +82,33 @@ As the Locker Service adjusts, I'll revisit this section to add resources that m
 
 - [Chroma.js](https://github.com/gka/chroma.js/)
 
-- [Signature Pad](https://github.com/szimek/signature_pad)
+- [Babylon.js](https://doc.babylonjs.com/)
 
+- [Three.js](https://github.com/mrdoob/three.js)
+
+- [Jasmine Unit Test Framework](https://github.com/jasmine/jasmine)
+
+- [Anime.js](https://github.com/juliangarnier/anime)
+
+- [Sheet.js](https://github.com/SheetJS/sheetjs)
+
+- [Tensorflow.js](https://github.com/tensorflow/tfjs)
+
+- [Annyang.js](https://github.com/TalAter/annyang)
+
+- [Mithril](https://github.com/MithrilJS/mithril.js)
+
+- [CytoScape](https://github.com/cytoscape/cytoscape.js)
+
+- [Vue.js](https://github.com/gka/chroma.js/)
+
+- [React.js](https://github.com/facebook/react)
+
+- [JForce](https://github.com/jsforce/jsforce)
+
+- [Handlebars](https://github.com/wycats/handlebars.js)
+
+- [ApexCharts](https://github.com/apexcharts/apexcharts.js)
 ---
 
 # Official Examples
