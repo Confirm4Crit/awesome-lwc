@@ -4,7 +4,7 @@ A list of interesting on platform Lightning Web Components resources and code ex
 
 "On platform" means resources specific to the SFDC platform, and not necessarily [LWC Open Source](https://lwc.dev/).
 
-Feel free to Fork, PR, and contribute to this list.
+Feel free to Fork, PR, and contribute to this list. For JS Library suggestions, try to suggest why it's a useful tool for the SFDC Landscape.
 
 Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
@@ -66,19 +66,19 @@ As the Locker Service adjusts, I'll revisit this section to add resources that m
 
 - [Moment JS](https://momentjs.com/)
 
-- [Chart JS](https://www.chartjs.org/) JS Charing Libray
+- [Chart JS](https://www.chartjs.org/) JS Charing Libray.
 
 - [D3](https://d3js.org/), a data visualization library.
 
-  - [C3](https://c3js.org/), a charting library dependent on D3
+  - [C3](https://c3js.org/), a charting library dependent on D3.
 
-- [ParaParse](https://github.com/mholt/PapaParse), a CSV parser, handles sloppy input and big files. (Use this)
+- [ParaParse](https://github.com/mholt/PapaParse), a CSV parser, handles sloppy input and big files. (Use this).
 
-- [Leaflet](https://leafletjs.com/)
+- [Leaflet](https://leafletjs.com/) Mobile friendly maps.
 
-- [Chroma.js](https://github.com/gka/chroma.js/)
+- [Chroma.js](https://github.com/gka/chroma.js/) Color manipulation library, useful with D3/Chart JS.
 
-- [Signature Pad](https://github.com/szimek/signature_pad)
+- [Signature Pad](https://github.com/szimek/signature_pad) HTML5 Canvas for accepting signatures.
 
 ---
 
