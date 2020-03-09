@@ -44,6 +44,10 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 , [@SFDX](https://github.com/SFXD))
 
   A lookup component with results as an editable two part datatable.
+  
+- [lwc-lookup](https://github.com/jlyon87/lwc-lookup) (Justin Lyon, [@jlyon87](https://github.com/jlyon87))
+
+  An SObject Generic Lookup field with LWC
 
 - [lwc-metadata-picker](https://github.com/jlyon87/lwc-metadata-picker) (Justin Lyon, [@jlyon87](https://github.com/jlyon87))
 
