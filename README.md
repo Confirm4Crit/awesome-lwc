@@ -1,4 +1,4 @@
-# awesome-lwc
+# Awesome LWC
 
 A list of interesting on platform Lightning Web Components resources and code examples
 
@@ -12,49 +12,49 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
 # Community Repos
 
-- [Timeline LWC](https://github.com/deejay-hub/timeline-lwc)
+- [Timeline](https://github.com/deejay-hub/timeline-lwc) (Dave Norris, [@deejay-hub](https://github.com/deejay-hub))
 
   An interactive timeline for the Salesforce platform. https://medium.com/@dave_norris
 
-- [lwc-utils](https://github.com/tsalb/lwc-utils)
+- [LWC Utils and Design Patterns](https://github.com/tsalb/lwc-utils) (James Hou, [@tslab](https://github.com/tsalb))
 
   A set of utilities and patterns for Flexipage SPAs.
 
-- [lightning-chatter-messenger](https://github.com/shunkosa/lightning-chatter-messenger)
+- [Lightning Chatter Messenger](https://github.com/shunkosa/lightning-chatter-messenger) (Shun Kosaka, [@shunkosa](https://github.com/shunkosa))
 
-  Utility item to support real time private chatter conversations.
+  An utility item to support real time private chatter conversations.
 
-- [Salesforce-Custom-Path-Assistant-LWC](https://github.com/maaaaarco/Salesforce-Custom-Path-Assistant-LWC)
+- [Salesforce-Custom-Path-Assistant-LWC](https://github.com/maaaaarco/Salesforce-Custom-Path-Assistant-LWC) (Marco Zeuli, [@maaaaarco](https://github.com/maaaaarco))
 
-- [User Interactions with Platform Events and LWC](https://github.com/lucianostraga/userInteractions-platformEvents-lwc)
+  A custom path assistant built using only Lightning Web Components
 
-- [LWC Listview](https://github.com/shliachtx/lwc-listview)
+- [User Interactions with Platform Events and LWC](https://github.com/lucianostraga/userInteractions-platformEvents-lwc) (Luciano Straga, [@lucianostraga](https://github.com/lucianostraga))
+
+  An user interaction tracker with Lightning Web Components and Platform Events for Lightning Experience and Communities
+
+- [LWC Listview](https://github.com/shliachtx/lwc-listview) (Menachem Lazaroff, [@shliachtx](https://github.com/shliachtx))
 
   A dynamic datatable for use in flexipages or standalone 
 
-- [LWC Lookup Datatable](https://github.com/SFXD/LWC-Lookup-Datatable)
+- [Salesforce Lookup Component (Lightning Web Component version)](https://github.com/pozil/sfdc-ui-lookup-lwc) (Philippe Ozil, [@pozil](https://github.com/pozil/))
 
-- [LWC Lookup](https://github.com/jlyon87/lwc-lookup)
+  A generic & customizable lookup component built using Salesforce Lightning Web Components and SLDS style.
 
-  A SObject Generic Lookup field with LWC
+- [lwc-metadata-picker](https://github.com/jlyon87/lwc-metadata-picker) (Justin Lyon, [@jlyon87](https://github.com/jlyon87))
 
-- [lwc-metadata-picker](https://github.com/jlyon87/lwc-metadata-picker)
+  A Custom Metadata Lookup field that allows to filter by a picklist.
 
-  Filter and search Custom Metadata with LWC https://jlyon87.github.io/#/
-
-- [dynamicFieldsLWC](https://github.com/seanpat09/dynamicFieldsLWC)
+- [Dynamic Multi Row Editable Tables using LWC](https://github.com/seanpat09/dynamicFieldsLWC) (Sean Cuveo, [@seanpat09](https://github.com/seanpat09))
   
   A dynamic multi-line input table using LWC
 
-- [one-pub-sub-lwc](https://github.com/TheVishnuKumar/one-pub-sub-lwc)
+- [One PubSub](https://github.com/TheVishnuKumar/one-pub-sub-lwc) (Vishnu Kumar, [@TheVishnuKumar](https://github.com/TheVishnuKumar))
 
   A Declarative PubSub Library for Lightning Web Component and Aura Component
 
-- [LWC Signature Pad](https://github.com/samkhan27/lwc-signature-pad)
+- [LWC Signature Pad](https://github.com/samkhan27/lwc-signature-pad) ([@samkhan27](https://www.github.com/samkhan27))
 
-- [sfdc-ui-lookup-lwc](https://github.com/pozil/sfdc-ui-lookup-lwc)
-
-  Another lookup!
+  A signature pad for drawing smooth signatures in Lightning Web Components(LWC) applications.
 
 ---
 
