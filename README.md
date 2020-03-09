@@ -41,7 +41,7 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
   A generic & customizable lookup component built using Salesforce Lightning Web Components and SLDS style.
 
 - [LWC-Lookup-Datatable](https://github.com/SFXD/LWC-Lookup-Datatable) (Salesforce Discord Exchange
-, [@SFDX](https://github.com/SFXD))
+, [@SFDX](https://github.com/SFXD), Atlas Can [@AtlasCan](https://github.com/AtlasCan))
 
   A lookup component with results as an editable two part datatable.
   
