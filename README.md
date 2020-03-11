@@ -16,7 +16,7 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
   An interactive timeline for the Salesforce platform. https://medium.com/@dave_norris
 
-- [LWC Utils and Design Patterns](https://github.com/tsalb/lwc-utils) (James Hou, [@tslab](https://github.com/tsalb))
+- [LWC Utils and Design Patterns](https://github.com/tsalb/lwc-utils) (James Hou, [@tsalb](https://github.com/tsalb))
 
   A set of utilities and patterns for Flexipage SPAs.
 
