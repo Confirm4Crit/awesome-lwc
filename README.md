@@ -65,6 +65,10 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
   A signature pad for drawing smooth signatures in Lightning Web Components(LWC) applications.
 
+- [Polyglot](https://github.com/ruslan-kurchenko/lwc-polyglot) (Ruslan Kurchenko, [@ruslan-kurchenko](https://github.com/ruslan-kurchenko))
+  
+  Salesforce Lightning Web Component to facilitate multilingual applications development
+
 ---
 
 # Locker Safe JS Resources
