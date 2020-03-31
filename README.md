@@ -68,10 +68,6 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 - [Polyglot](https://github.com/ruslan-kurchenko/lwc-polyglot) (Ruslan Kurchenko, [@ruslan-kurchenko](https://github.com/ruslan-kurchenko))
   
   Salesforce Lightning Web Component to facilitate multilingual applications development
-  
-- [lwc-dnd-demos](https://github.com/forcementor/lwc-dnd-demos) (Don Robins [@forcementor](https://github.com/forcementor))
-  
-  Salesforce Lightning Web Component to facilitate multilingual applications development
 
 ---
 
