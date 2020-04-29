@@ -1,8 +1,8 @@
 # Awesome LWC
 
-A list of interesting on platform Lightning Web Components resources and code examples
+A list of interesting Lightning Web Components resources and code examples
 
-"On platform" means resources specific to the SFDC platform, and not necessarily [LWC Open Source](https://lwc.dev/).
+Most of this repo is for "On platform" means resources specific to the SFDC platform, and but [LWC Open Source](https://lwc.dev/) items are included as well.
 
 Feel free to Fork, PR, and contribute to this list. For JS Library suggestions, try to suggest why it's a useful tool for the SFDC Landscape.
 
@@ -10,7 +10,11 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
 ---
 
-# Community Repos
+## On Platform Community Repos
+
+- [LWCC](https://github.com/scolladon/lwcc)
+
+  Simple yet flexible charting Lightning Web Component using Chart.js for admins & developers
 
 - [Timeline](https://github.com/deejay-hub/timeline-lwc) (Dave Norris, [@deejay-hub](https://github.com/deejay-hub))
 
@@ -71,7 +75,7 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
 ---
 
-# Locker Safe JS Resources
+## Locker Safe JS Resources
 
 Goal of this section is to highlight Locker Safe resources that can enhance your LWC.
 
@@ -95,7 +99,7 @@ As the Locker Service adjusts, I'll revisit this section to add resources that m
 
 ---
 
-# Official Examples
+## Official Examples
 
 - [Salesforce Sample Gallery](https://trailhead.salesforce.com/sample-gallery)
 - [LWC Recipes](https://github.com/trailheadapps/lwc-recipes)
@@ -103,13 +107,13 @@ As the Locker Service adjusts, I'll revisit this section to add resources that m
 
 ---
 
-# Interesting Posts and Blogs
+## Interesting Posts and Blogs
 
 - [Debugging LWC Tests in VS Code](https://www.mattgoldspink.co.uk/debugging-lwc-tests-vs-code/)
 
 ---
 
-# Want to learn LWC?
+## Want to learn On Platform LWC?
 
 - [LWC Trailhead Trail](https://trailhead.salesforce.com/en/content/learn/trails/build-lightning-web-components)
 - [Component Documentation](https://developer.salesforce.com/docs/component-library/overview/components)
@@ -121,13 +125,19 @@ As the Locker Service adjusts, I'll revisit this section to add resources that m
 
 ---
 
-# New to Javascript?
+## New to Javascript?
 
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Scrimba ES6 Course by Dylan Israel](https://scrimba.com/g/gintrotoes6)
 
 ---
 
-# Need help setting up VS Code for Salesforce Development?
+## Need help setting up VS Code for Salesforce Development?
 
 - [Official Salesforce Extension Documentation](https://developer.salesforce.com/tools/vscode/) (Note the JDK alternatives)
+
+---
+# OSS LWC
+
+## Community Repos
+- [LWC SOQL Builder](https://github.com/lwc-soql-builder/lwc-soql-builder)
