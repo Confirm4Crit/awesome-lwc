@@ -73,6 +73,10 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
   
   Salesforce Lightning Web Component to facilitate multilingual applications development
 
+- [LWC Files Related List](https://github.com/surajp/lwc-files-list) (Suraj Pillai, [@surajp](https://github.com/surajp))
+  
+  Salesforce Lightning Web Component to display files related to a record in a data table, with previews on hover, and ability to view, download and upload multiple versions of the same file without navigating away from the record page.
+
 ---
 
 ## Locker Safe JS Resources
