@@ -76,6 +76,10 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 - [LWC Files Related List](https://github.com/surajp/lwc-files-list) (Suraj Pillai, [@surajp](https://github.com/surajp))
   
   Salesforce Lightning Web Component to display files related to a record in a data table, with previews on hover, and ability to view, download and upload multiple versions of the same file without navigating away from the record page.
+  
+- [LWC Stencil](https://github.com/gavignon/lwc-stencil) ([@gavignon](https://github.com/gavignon0))
+
+  Lightning Web Component used for Skeleton Loading [LDS Ref.](https://www.lightningdesignsystem.com/guidelines/loading)
 
 ---
 
