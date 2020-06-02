@@ -155,3 +155,8 @@ As the Locker Service adjusts, I'll revisit this section to add resources that m
 
 ## Community Repos
 - [LWC SOQL Builder](https://github.com/lwc-soql-builder/lwc-soql-builder)
+
+---
+Creative Commons Legal Code
+
+CC0 1.0 Universal
