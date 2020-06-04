@@ -83,6 +83,11 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
   
 - [LWC Confirmation Dialog](https://github.com/marcoalmodova/confirm-dialog) ([@marcoalmodova](https://github.com/marcoalmodova))
 
+- [LWC Component COVID19 ](https://github.com/arufian/LWC-Component-COVID19) (Alfian Busyro, [@arufian](https://github.com/arufian))
+   
+  A LWC component that can be embedded into Account and Contact record page, which will show all COVID-19 statistics data based of Account's and Contact's respective country.
+
+
 ---
 
 ## Locker Safe JS Resources
