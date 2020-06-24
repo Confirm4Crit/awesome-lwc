@@ -128,11 +128,18 @@ As the Locker Service adjusts, I'll revisit this section to add resources that m
 
 ## Interesting Posts, Blogs, and Sites
 
+### JEST related posts
+These are fairly random scribbles, just notes I think are valueable related to JEST
 - [Debugging LWC Tests in VS Code](https://www.mattgoldspink.co.uk/debugging-lwc-tests-vs-code/)
-
+- [Lightning Web Components - Testing](https://socalledprogrammer.com/2019/01/02/lightning-web-components-testing.html)
+- [Jest Unit Testing with LWC](https://www.foglightsolutions.com/blog/lwc_jest_unit_testing/)
+- [Nested Component Unit Testing Lightning Web Components (LWC)](https://tigerfacesystems.com/blog/lwc-nested-component-testing)
+---
 - [Lightning Web Components Library](https://salesforce-lightning-web-components-lwc-library.valhos.com/)
 
    Publicly maintained list of LWC comps, with a prettier view than this readme! (Lucas Valhos, [@lucasvalhos](https://github.com/lucasvalhos))
+   
+- [Lightning Web Components Performance Best Practices](https://developer.salesforce.com/blogs/2020/06/caching-in-the-salesforce-platform.html)
 
 ---
 
