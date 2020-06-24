@@ -81,6 +81,10 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
   Lightning Web Component used for Skeleton Loading [LDS Ref.](https://www.lightningdesignsystem.com/guidelines/loading)
   
+- [SLDS Illustration Cmp](https://github.com/kacrouse/lwc-illustration) ((@kacrouse)[https://github.com/kacrouse])
+
+  The SLDS Illustration component blueprint as a Lightning Web Component. Also usable in Lightning App Builder.
+  
 - [LWC Confirmation Dialog](https://github.com/marcoalmodova/confirm-dialog) ([@marcoalmodova](https://github.com/marcoalmodova))
 
 - [LWC Component COVID19 ](https://github.com/arufian/LWC-Component-COVID19) (Alfian Busyro, [@arufian](https://github.com/arufian))
