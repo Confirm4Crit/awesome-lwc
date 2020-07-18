@@ -91,7 +91,13 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
    
   A LWC component that can be embedded into Account and Contact record page, which will show all COVID-19 statistics data based of Account's and Contact's respective country.
 
+- [LWC JS Button](https://github.com/surajp/lightning-js-button) ([@surajp](https://github.com/surajp))
 
+  JavaScript buttons that work in Lightning!
+
+- [Payment Form](https://github.com/rapsacnz/PaymentForm) ([@rapsacnz](https://github.com/rapsacnz))
+
+  A form that takes credit card and address information. Uses a ported version of jessie pollack's card component.
 ---
 
 ## Locker Safe JS Resources
