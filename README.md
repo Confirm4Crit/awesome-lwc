@@ -12,7 +12,7 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
 ## On Platform Community Repos
 
-- [LWCC](https://github.com/scolladon/lwcc)
+- [LWCC](https://github.com/SalesforceLabs/LightningWebChartJS)
 
   Simple yet flexible charting Lightning Web Component using Chart.js for admins & developers
 
