@@ -38,17 +38,17 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
 - [LWC Listview](https://github.com/shliachtx/lwc-listview) (Menachem Lazaroff, [@shliachtx](https://github.com/shliachtx))
 
-  A dynamic datatable for use in flexipages or standalone 
+  A dynamic datatable for use in flexipages or standalone
 
 - [Salesforce Lookup Component (Lightning Web Component version)](https://github.com/pozil/sfdc-ui-lookup-lwc) (Philippe Ozil, [@pozil](https://github.com/pozil/))
 
   A generic & customizable lookup component built using Salesforce Lightning Web Components and SLDS style.
 
 - [LWC-Lookup-Datatable](https://github.com/SFXD/LWC-Lookup-Datatable) (Salesforce Discord Exchange
-, [@SFDX](https://github.com/SFXD), Atlas Can [@AtlasCan](https://github.com/AtlasCan))
+  , [@SFDX](https://github.com/SFXD), Atlas Can [@AtlasCan](https://github.com/AtlasCan))
 
   A lookup component with results as an editable two part datatable.
-  
+
 - [lwc-lookup](https://github.com/jlyon87/lwc-lookup) (Justin Lyon, [@jlyon87](https://github.com/jlyon87))
 
   An SObject Generic Lookup field with LWC
@@ -58,7 +58,7 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
   A Custom Metadata Lookup field that allows to filter by a picklist.
 
 - [Dynamic Multi Row Editable Tables using LWC](https://github.com/seanpat09/dynamicFieldsLWC) (Sean Cuveo, [@seanpat09](https://github.com/seanpat09))
-  
+
   A dynamic multi-line input table using LWC
 
 - [One PubSub](https://github.com/TheVishnuKumar/one-pub-sub-lwc) (Vishnu Kumar, [@TheVishnuKumar](https://github.com/TheVishnuKumar))
@@ -70,25 +70,25 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
   A signature pad for drawing smooth signatures in Lightning Web Components(LWC) applications.
 
 - [Polyglot](https://github.com/ruslan-kurchenko/lwc-polyglot) (Ruslan Kurchenko, [@ruslan-kurchenko](https://github.com/ruslan-kurchenko))
-  
+
   Salesforce Lightning Web Component to facilitate multilingual applications development
 
 - [LWC Files Related List](https://github.com/surajp/lwc-files-list) (Suraj Pillai, [@surajp](https://github.com/surajp))
-  
+
   Salesforce Lightning Web Component to display files related to a record in a data table, with previews on hover, and ability to view, download and upload multiple versions of the same file without navigating away from the record page.
-  
+
 - [LWC Stencil](https://github.com/gavignon/lwc-stencil) ([@gavignon](https://github.com/gavignon0))
 
   Lightning Web Component used for Skeleton Loading [LDS Ref.](https://www.lightningdesignsystem.com/guidelines/loading)
-  
+
 - [SLDS Illustration Cmp](https://github.com/kacrouse/lwc-illustration) ([@kacrouse](https://github.com/kacrouse))
 
   The SLDS Illustration component blueprint as a Lightning Web Component. Also usable in Lightning App Builder.
-  
+
 - [LWC Confirmation Dialog](https://github.com/marcoalmodova/confirm-dialog) ([@marcoalmodova](https://github.com/marcoalmodova))
 
 - [LWC Component COVID19 ](https://github.com/arufian/LWC-Component-COVID19) (Alfian Busyro, [@arufian](https://github.com/arufian))
-   
+
   A LWC component that can be embedded into Account and Contact record page, which will show all COVID-19 statistics data based of Account's and Contact's respective country.
 
 - [LWC JS Button](https://github.com/surajp/lightning-js-button) ([@surajp](https://github.com/surajp))
@@ -98,6 +98,11 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 - [Payment Form](https://github.com/rapsacnz/PaymentForm) ([@rapsacnz](https://github.com/rapsacnz))
 
   A form that takes credit card and address information. Uses a ported version of jessie pollack's card component.
+
+- [LWC Style Distributor](https://github.com/foxcreation/LWC-Style-Distributor) ([@foxcreation](https://github.com/foxcreation))
+
+  Style Distributor Lightning Web Component for Salesforce.
+
 ---
 
 ## Locker Safe JS Resources
@@ -135,16 +140,20 @@ As the Locker Service adjusts, I'll revisit this section to add resources that m
 ## Interesting Posts, Blogs, and Sites
 
 ### JEST related posts
+
 These are fairly random scribbles, just notes I think are valueable related to JEST
+
 - [Debugging LWC Tests in VS Code](https://www.mattgoldspink.co.uk/debugging-lwc-tests-vs-code/)
 - [Lightning Web Components - Testing](https://socalledprogrammer.com/2019/01/02/lightning-web-components-testing.html)
 - [Jest Unit Testing with LWC](https://www.foglightsolutions.com/blog/lwc_jest_unit_testing/)
 - [Nested Component Unit Testing Lightning Web Components (LWC)](https://tigerfacesystems.com/blog/lwc-nested-component-testing)
+
 ---
+
 - [Lightning Web Components Library](https://salesforce-lightning-web-components-lwc-library.valhos.com/)
 
-   Publicly maintained list of LWC comps, with a prettier view than this readme! (Lucas Valhos, [@lucasvalhos](https://github.com/lucasvalhos))
-   
+  Publicly maintained list of LWC comps, with a prettier view than this readme! (Lucas Valhos, [@lucasvalhos](https://github.com/lucasvalhos))
+
 - [Lightning Web Components Performance Best Practices](https://developer.salesforce.com/blogs/2020/06/caching-in-the-salesforce-platform.html)
 
 ---
@@ -173,12 +182,15 @@ These are fairly random scribbles, just notes I think are valueable related to J
 - [Official Salesforce Extension Documentation](https://developer.salesforce.com/tools/vscode/) (Note the JDK alternatives)
 
 ---
+
 # OSS LWC
 
 ## Community Repos
+
 - [LWC SOQL Builder](https://github.com/lwc-soql-builder/lwc-soql-builder)
 
 ---
+
 Creative Commons Legal Code
 
 CC0 1.0 Universal
