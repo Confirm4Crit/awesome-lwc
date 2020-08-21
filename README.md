@@ -102,6 +102,26 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 - [LWC Style Distributor](https://github.com/foxcreation/LWC-Style-Distributor) ([@foxcreation](https://github.com/foxcreation))
 
   Style Distributor Lightning Web Component for Salesforce.
+  
+- [Apex Continuations (LWC and Aura)](https://github.com/foxcreation/LWC-Style-Distributor) ([@victorgz](https://github.com/victorgz))
+
+  Examples of the implementation and testing of Apex Continuations in LWC and Aura
+  
+- [LWC Modal](https://github.com/jamessimone/lwc-modal) ([@jamessimone](https://github.com/jamessimone))
+
+  Accessible, composable modal for Salesforce.com (SFDC)'s Lightning Web Components (LWC) system
+  
+- [LWC Paginator](https://github.com/jamessimone/lwc-paginator) ([@jamessimone](https://github.com/jamessimone))
+
+  Composable pagination LWC
+  
+- [lightning-wizard](https://github.com/jmpisson/lightning-wizard) ([@jmpisson](https://github.com/jmpisson))
+
+  Wizard component for building flows with LWC
+  
+- [Indicators](https://github.com/JodieM/Indicators) ([@JodieM](https://github.com/JodieM))
+
+  Indicators for LWC
 
 ---
 
