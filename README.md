@@ -123,6 +123,10 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
   Indicators for LWC
 
+- [Confirmation Dialog](https://github.com/surajp/lwc-confirmation-dialog) ([@surajp](https://github.com/surajp))
+
+  LWC Confirmation Dialog
+
 ---
 
 ## Locker Safe JS Resources
