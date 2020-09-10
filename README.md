@@ -209,10 +209,12 @@ These are fairly random scribbles, just notes I think are valueable related to J
 
 # OSS LWC
 
+I am individually not focusing too hard on LWC OSS right now, but I don't want to *ignore it* either.
+
 ## Community Repos
 
 - [LWC SOQL Builder](https://github.com/lwc-soql-builder/lwc-soql-builder)
-
+- [LWC OSS Storybook](https://github.com/reiniergs/lwc-storybooks-poc)
 ---
 
 Creative Commons Legal Code
