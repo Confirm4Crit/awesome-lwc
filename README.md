@@ -127,6 +127,15 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
   LWC Confirmation Dialog
 
+- [Tilewall](https://github.com/Dogeforce/tilewall-lwc) ([@Dogeforce](https://github.com/Dogeforce))
+
+  A component that displays a grid like GitHub's commit history
+
+- LWC [Redux](https://github.com/prashantk0001/lwc-redux) and [Router](https://github.com/prashantk0001/lwc-router)
+
+  There's others like this, but I picked this one!
+
+- [LWC Action](https://github.com/andrii-solokh/LWCAction) ([@andrii-solokh](https://github.com/andrii-solokh))
 ---
 
 ## Locker Safe JS Resources
