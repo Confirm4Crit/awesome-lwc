@@ -1,0 +1,70 @@
+:host {
+    width: 100%;
+    padding: 2rem;
+    color: #080707;
+}
+.component {
+    width: 100%;
+    display: flex;
+    font-size: 1rem;
+    justify-content: space-between;
+    text-align: left;
+    margin: 1rem 0;
+    padding: 1rem;
+    background-color: transparent;
+    border: 1px solid #dddbda;
+    align-items: center;
+    border-left: 3px solid #0277bd;
+    border-radius: 0 0.5rem 0.5rem 0;
+}
+.component-card {
+    -webkit-box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 -1px 4px 0 rgba(0, 0, 0, 0.1), 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    margin: 15px;
+}
+.component:hover {
+    background-color: #e1f5fe;
+    cursor: pointer;
+    text-decoration: none;
+}
+.component p {
+    margin: 0;
+}
+.component .title {
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+.component .icon {
+    color: #039be5;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 1.75rem;
+}
+.component .icon.time {
+    background-image: url(https://developer.salesforce.com/files/js-dev/icons/clock.svg);
+    margin-top: 0.6rem;
+}
+.component .icon.room {
+    background-image: url(https://developer.salesforce.com/files/js-dev/icons/location.svg);
+    margin-top: 0.4rem;
+}
+input {
+    border: 1px solid #dddbda;
+    border-radius: 0.25rem;
+    transition: border 0.1s linear, background-color 0.1s linear;
+    display: inline-block;
+    padding: 0 1rem 0 0.75rem;
+    line-height: 2rem;
+    font-size: 1rem;
+    width: 15rem;
+}
+.repoowner-pictures {
+    display: flex;
+    justify-content: end;
+}
+.repoowner-pictures > img {
+    border-radius: 50%;
+    height: 3.5rem;
+    margin-left: 0.5rem;
+}

@@ -1,0 +1,23 @@
+{
+    "plugins": ["inclusive-language"],
+    "extends": ["@salesforce/eslint-config-lwc/recommended"],
+    "rules": {
+        "@lwc/lwc/no-async-operation": "off",
+        "@lwc/lwc/no-inner-html": "warn",
+        "@lwc/lwc/no-document-query": "warn",
+        "inclusive-language/use-inclusive-words": "error"
+    },
+    "overrides": [
+        {
+            "files": [
+                "src/server/**",
+                "scripts/server.js",
+                "jest.config.js",
+                "lwc-services.config.js"
+            ],
+            "env": {
+                "node": true
+            }
+        }
+    ]
+}
