@@ -7,13 +7,18 @@
                 oninput={handleSearchKeyInput}
             />
             <template if:true={components}>
-                <div class="slds-grid slds-gutters slds-wrap">
+                <div
+                    class="slds-grid slds-grid_vertical-stretch slds-gutters slds-wrap"
+                >
                     <template for:each={components} for:item="component">
                         <div
                             key={component.id}
-                            class="slds-col slds-size_1-of-3"
+                            class="slds-col slds-large-size_1-of-3 slds-medium-size_1-of-3 slds-small-size_1-of-1 slds-m-bottom_small"
                         >
-                            <div class="component slds-grid slds-wrap">
+                            <div
+                                class="component slds-grid slds-grid_vertical-stretch slds-wrap"
+                                style="height: 100%"
+                            >
                                 <a
                                     class="title slds-col slds-size_1-of-1"
                                     href={component.repo}
