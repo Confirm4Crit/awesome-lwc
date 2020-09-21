@@ -22,7 +22,7 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
 - [LWC Utils and Design Patterns](https://github.com/tsalb/lwc-utils) (James Hou, [@tsalb](https://github.com/tsalb))
 
-  A set of utilities and patterns for Flexipage SPAs.
+  Reusable LWCs to 10x your solution building speed. Design interactive, data-dense UIs with LWC + Screen Flows.
 
 - [Lightning Chatter Messenger](https://github.com/shunkosa/lightning-chatter-messenger) (Shun Kosaka, [@shunkosa](https://github.com/shunkosa))
 
@@ -103,7 +103,7 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
   Style Distributor Lightning Web Component for Salesforce.
   
-- [Apex Continuations (LWC and Aura)](https://github.com/foxcreation/LWC-Style-Distributor) ([@victorgz](https://github.com/victorgz))
+- [Apex Continuations (LWC and Aura)](https://github.com/victorgz/sfdc-apex-continuations) ([@victorgz](https://github.com/victorgz))
 
   Examples of the implementation and testing of Apex Continuations in LWC and Aura
   
@@ -134,6 +134,10 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 - LWC [Redux](https://github.com/prashantk0001/lwc-redux) and [Router](https://github.com/prashantk0001/lwc-router)
 
   There's others like this, but I picked this one!
+
+- LWC [Redux](https://github.com/chandrakiran-dev/lwc-redux)
+
+  Okay this one has a cool doc site :D
 
 - [LWC Action](https://github.com/andrii-solokh/LWCAction) ([@andrii-solokh](https://github.com/andrii-solokh))
 ---
