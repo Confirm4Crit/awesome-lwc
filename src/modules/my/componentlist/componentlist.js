@@ -9,8 +9,11 @@ export default class ComponentList extends LightningElement {
 
     handleSearchKeyInput(event) {
         const searchKey = event.target.value.toLowerCase();
-        this.components = this.allComponents.filter((components) =>
-            components.title.toLowerCase().includes(searchKey)
+        this.components = this.allComponents.filter(
+            (components) =>
+                components.description.toLowerCase().includes(searchKey) ||
+                components.title.toLowerCase().includes(searchKey) ||
+                components.repoOwnerName.toLowerCase().includes(searchKey)
         );
     }
 }
