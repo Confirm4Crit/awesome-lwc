@@ -5,6 +5,16 @@
         <my-githubcorner></my-githubcorner>
     </header>
     <main class="content">
-        <my-componentlist></my-componentlist>
+        <my-tabbar
+            tab-items={tabItems}
+            selected-tab={currentNavigationItem}
+            oncategorychange={handleCategoryChange}
+        >
+        </my-tabbar>
+        <div>
+            <template if:true={tabItems.components.visible}>
+                <my-componentlist></my-componentlist>
+            </template>
+        </div>
     </main>
 </template>
