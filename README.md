@@ -217,6 +217,8 @@ These are fairly random scribbles, just notes I think are valueable related to J
 -   [Play by Play Video: Understanding Lightning Web Components for Non-Salesforce Developers](https://www.pluralsight.com/courses/play-by-play-understanding-lightning-web-components-non-salesforce-developers)
 -   [Intro into LWCs](https://github.com/tsalb/intro-to-lwcs) (James Hou, [@tsalb](https://github.com/tsalb))
 -   [Lightning Web Components Developer Workshop](https://developerforce.github.io/LWC-Developer-Workshop-2019/index.html)
+-   [Lightning Web Components Posts on WIPDeveloper.com](https://wipdeveloper.com/tags/lwc/) (Brett Nelson, [@brettmn](https://github.com/brettmn))
+
 
 ---
 
