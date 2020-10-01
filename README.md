@@ -163,7 +163,7 @@ As the Locker Service adjusts, I'll revisit this section to add resources that m
 
 -   [Moment JS](https://momentjs.com/)
 
--   [Chart JS](https://www.chartjs.org/) JS Charing Libray.
+-   [Chart JS](https://www.chartjs.org/) JS Charing library.
 
 -   [D3](https://d3js.org/), a data visualization library.
 
