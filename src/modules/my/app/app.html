@@ -15,7 +15,12 @@
             <template if:true={tabItems.components.visible}>
                 <my-componentlist></my-componentlist>
             </template>
+            <template if:true={tabItems.lockersafejs.visible}>
+                <my-lockersafejs></my-lockersafejs>
+            </template>
+            <template if:true={tabItems.learning.visible}>
+                <my-learning></my-learning>
+            </template>
         </div>
-        <my-lockersafejs></my-lockersafejs>
     </main>
 </template>
