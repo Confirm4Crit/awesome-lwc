@@ -1,11 +1,11 @@
 {
-    "trailingComma": "none",
-    "singleQuote": true,
-    "tabWidth": 4,
-    "overrides": [
-        {
-            "files": "**/*.html",
-            "options": { "parser": "lwc" }
-        }
-    ]
+  "trailingComma": "none",
+  "singleQuote": true,
+  "tabWidth": 2,
+  "overrides": [
+    {
+      "files": "**/*.html",
+      "options": { "parser": "lwc" }
+    }
+  ]
 }

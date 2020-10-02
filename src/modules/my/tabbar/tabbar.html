@@ -1,30 +1,26 @@
 <template>
-    <div>
-        <div class="slds-tabs_default slds-tabs_large slds-p-horizontal_large">
-            <ul class="slds-tabs_default__nav" role="tablist">
-                <template for:each={tabItems} for:item="tabItem">
-                    <li
-                        key={tabItem.title}
-                        class="slds-tabs_default__item"
-                        title="Components"
-                        role="presentation"
-                    >
-                        <a
-                            class="slds-tabs_default__link"
-                            href="#"
-                            role="tab"
-                            tabindex="0"
-                            aria-selected="true"
-                            aria-controls="tab-default-1"
-                            onclick={handleTabItemClick}
-                            title={tabItem.title}
-                            data-item={tabItem.value}
-                            id={tabItem.title}
-                            >{tabItem.title}</a
-                        >
-                    </li>
-                </template>
-            </ul>
-        </div>
+  <div>
+    <div class="slds-tabs_default slds-tabs_large slds-p-horizontal_large">
+      <ul class="slds-tabs_default__nav" role="tablist">
+        <template for:each={tabItems} for:item="tabItem">
+          <li key={tabItem.title} class="slds-tabs_default__item" title="Components" role="presentation">
+            <a
+              class="slds-tabs_default__link"
+              href="#"
+              role="tab"
+              tabindex="0"
+              aria-selected="true"
+              aria-controls="tab-default-1"
+              onclick={handleTabItemClick}
+              title={tabItem.title}
+              data-item={tabItem.value}
+              id={tabItem.title}
+            >
+              {tabItem.title}
+            </a>
+          </li>
+        </template>
+      </ul>
     </div>
+  </div>
 </template>
