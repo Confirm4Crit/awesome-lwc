@@ -14,7 +14,7 @@ All this is community driven and isn't directly associated to Salesforce or rela
 
 A list AND SITE of interesting Lightning Web Components resources and code examples
 
-Most of this repo is for "On platform" means resources specific to the SFDC platform, and but [LWC Open Source](https://lwc.dev/) items are included as well.
+Most of this repo is for "On platform" means resources specific to the SFDC platform, but [LWC Open Source](https://lwc.dev/) items are included as well.
 
 Feel free to Fork, PR, and contribute to this list. For JS Library suggestions, try to suggest why it's a useful tool for the SFDC Landscape.
 
@@ -26,11 +26,11 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
 -   [LWCC](https://github.com/SalesforceLabs/LightningWebChartJS)
 
-    Simple yet flexible charting Lightning Web Component using Chart.js for admins & developers
+    Simple yet flexible charting Lightning Web Component using Chart.js for admins & developers.
 
 -   [Timeline](https://github.com/deejay-hub/timeline-lwc) (Dave Norris, [@deejay-hub](https://github.com/deejay-hub))
 
-    An interactive timeline for the Salesforce platform. https://medium.com/@dave_norris
+    An interactive timeline for the Salesforce platform. https://medium.com/@dave_norris.
 
 -   [LWC Utils and Design Patterns](https://github.com/tsalb/lwc-utils) (James Hou, [@tsalb](https://github.com/tsalb))
 
@@ -38,19 +38,19 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
 -   [Lightning Chatter Messenger](https://github.com/shunkosa/lightning-chatter-messenger) (Shun Kosaka, [@shunkosa](https://github.com/shunkosa))
 
-    An utility item to support real time private chatter conversations.
+    A utility item to support real time private chatter conversations.
 
 -   [Salesforce-Custom-Path-Assistant-LWC](https://github.com/maaaaarco/Salesforce-Custom-Path-Assistant-LWC) (Marco Zeuli, [@maaaaarco](https://github.com/maaaaarco))
 
-    A custom path assistant built using only Lightning Web Components
+    A custom path assistant built using only Lightning Web Components.
 
 -   [User Interactions with Platform Events and LWC](https://github.com/lucianostraga/userInteractions-platformEvents-lwc) (Luciano Straga, [@lucianostraga](https://github.com/lucianostraga))
 
-    An user interaction tracker with Lightning Web Components and Platform Events for Lightning Experience and Communities
+    A user interaction tracker with Lightning Web Components and Platform Events for Lightning Experience and Communities.
 
 -   [LWC Listview](https://github.com/shliachtx/lwc-listview) (Menachem Lazaroff, [@shliachtx](https://github.com/shliachtx))
 
-    A dynamic datatable for use in flexipages or standalone
+    A dynamic datatable for use in flexipages or standalone.
 
 -   [Salesforce Lookup Component (Lightning Web Component version)](https://github.com/pozil/sfdc-ui-lookup-lwc) (Philippe Ozil, [@pozil](https://github.com/pozil/))
 
@@ -63,7 +63,7 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
 -   [lwc-lookup](https://github.com/jlyon87/lwc-lookup) (Justin Lyon, [@jlyon87](https://github.com/jlyon87))
 
-    An SObject Generic Lookup field with LWC
+    An SObject Generic Lookup field with LWC.
 
 -   [lwc-metadata-picker](https://github.com/jlyon87/lwc-metadata-picker) (Justin Lyon, [@jlyon87](https://github.com/jlyon87))
 
@@ -71,11 +71,11 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
 -   [Dynamic Multi Row Editable Tables using LWC](https://github.com/seanpat09/dynamicFieldsLWC) (Sean Cuveo, [@seanpat09](https://github.com/seanpat09))
 
-    A dynamic multi-line input table using LWC
+    A dynamic multi-line input table using LWC.
 
 -   [One PubSub](https://github.com/TheVishnuKumar/one-pub-sub-lwc) (Vishnu Kumar, [@TheVishnuKumar](https://github.com/TheVishnuKumar))
 
-    A Declarative PubSub Library for Lightning Web Component and Aura Component
+    A Declarative PubSub Library for Lightning Web Component and Aura Component.
 
 -   [LWC Signature Pad](https://github.com/samkhan27/lwc-signature-pad) ([@samkhan27](https://www.github.com/samkhan27))
 
@@ -83,7 +83,7 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
 -   [Polyglot](https://github.com/ruslan-kurchenko/lwc-polyglot) (Ruslan Kurchenko, [@ruslan-kurchenko](https://github.com/ruslan-kurchenko))
 
-    Salesforce Lightning Web Component to facilitate multilingual applications development
+    Salesforce Lightning Web Component to facilitate multilingual applications development.
 
 -   [LWC Files Related List](https://github.com/surajp/lwc-files-list) (Suraj Pillai, [@surajp](https://github.com/surajp))
 
@@ -101,7 +101,7 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
 -   [LWC Component COVID19 ](https://github.com/arufian/LWC-Component-COVID19) (Alfian Busyro, [@arufian](https://github.com/arufian))
 
-    A LWC component that can be embedded into Account and Contact record page, which will show all COVID-19 statistics data based of Account's and Contact's respective country.
+    A component that can be embedded into Account and Contact record page, which will show all COVID-19 statistics data based of Account's and Contact's respective country.
 
 -   [LWC JS Button](https://github.com/surajp/lightning-js-button) ([@surajp](https://github.com/surajp))
 
@@ -109,7 +109,7 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
 -   [Payment Form](https://github.com/rapsacnz/PaymentForm) ([@rapsacnz](https://github.com/rapsacnz))
 
-    A form that takes credit card and address information. Uses a ported version of jessie pollack's card component.
+    A form that takes credit card and address information. Uses a ported version of Jessie Pollack's card component.
 
 -   [LWC Style Distributor](https://github.com/foxcreation/LWC-Style-Distributor) ([@foxcreation](https://github.com/foxcreation))
 
@@ -117,31 +117,31 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
 -   [Apex Continuations (LWC and Aura)](https://github.com/victorgz/sfdc-apex-continuations) ([@victorgz](https://github.com/victorgz))
 
-    Examples of the implementation and testing of Apex Continuations in LWC and Aura
+    Examples of the implementation and testing of Apex Continuations in LWC and Aura.
 
 -   [LWC Modal](https://github.com/jamessimone/lwc-modal) ([@jamessimone](https://github.com/jamessimone))
 
-    Accessible, composable modal for Salesforce.com (SFDC)'s Lightning Web Components (LWC) system
+    Accessible, composable modal for Salesforce.com (SFDC)'s Lightning Web Components (LWC) system.
 
 -   [LWC Paginator](https://github.com/jamessimone/lwc-paginator) ([@jamessimone](https://github.com/jamessimone))
 
-    Composable pagination LWC
+    Composable pagination LWC.
 
 -   [lightning-wizard](https://github.com/jmpisson/lightning-wizard) ([@jmpisson](https://github.com/jmpisson))
 
-    Wizard component for building flows with LWC
+    Wizard component for building flows with LWC.
 
 -   [Indicators](https://github.com/JodieM/Indicators) ([@JodieM](https://github.com/JodieM))
 
-    Indicators for LWC
+    Indicators for LWC.
 
 -   [Confirmation Dialog](https://github.com/surajp/lwc-confirmation-dialog) ([@surajp](https://github.com/surajp))
 
-    LWC Confirmation Dialog
+    LWC Confirmation Dialog.
 
 -   [Tilewall](https://github.com/Dogeforce/tilewall-lwc) ([@Dogeforce](https://github.com/Dogeforce))
 
-    A component that displays a grid like GitHub's commit history
+    A component that displays a grid like GitHub's commit history.
 
 -   LWC [Redux](https://github.com/prashantk0001/lwc-redux) and [Router](https://github.com/prashantk0001/lwc-router)
 
@@ -163,13 +163,13 @@ As the Locker Service adjusts, I'll revisit this section to add resources that m
 
 -   [Moment JS](https://momentjs.com/)
 
--   [Chart JS](https://www.chartjs.org/) JS Charing library.
+-   [Chart JS](https://www.chartjs.org/) JS Charting library.
 
 -   [D3](https://d3js.org/), a data visualization library.
 
     -   [C3](https://c3js.org/), a charting library dependent on D3.
 
--   [ParaParse](https://github.com/mholt/PapaParse), a CSV parser, handles sloppy input and big files. (Use this).
+-   [PapaParse](https://github.com/mholt/PapaParse), a CSV parser, handles sloppy input and big files. (Use this).
 
 -   [Leaflet](https://leafletjs.com/) Mobile friendly maps.
 
@@ -191,7 +191,7 @@ As the Locker Service adjusts, I'll revisit this section to add resources that m
 
 ### JEST related posts
 
-These are fairly random scribbles, just notes I think are valueable related to JEST
+These are fairly random scribbles, just notes I think are valuable related to JEST
 
 -   [Debugging LWC Tests in VS Code](https://www.mattgoldspink.co.uk/debugging-lwc-tests-vs-code/)
 -   [Lightning Web Components - Testing](https://socalledprogrammer.com/2019/01/02/lightning-web-components-testing.html)
