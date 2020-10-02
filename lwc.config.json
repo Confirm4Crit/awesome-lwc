@@ -1,7 +1,7 @@
 {
-    "modules": [
-        {
-            "dir": "src/modules"
-        }
-    ]
+  "modules": [
+    {
+      "dir": "src/modules"
+    }
+  ]
 }
