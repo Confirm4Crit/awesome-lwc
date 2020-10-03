@@ -78,8 +78,7 @@ export const componentListData = [
   },
   {
     title: 'Salesforce-Custom-Path-Assistant-LWC',
-    repo:
-      'https://github.com/maaaaarco/Salesforce-Custom-Path-Assistant-LWC',
+    repo: 'https://github.com/maaaaarco/Salesforce-Custom-Path-Assistant-LWC',
     description:
       'A custom path assistant built using only Lightning Web Components',
     repoOwnerName: 'Marco Zeuli',
@@ -200,6 +199,16 @@ export const componentListData = [
     id: 1
   },
   {
+    title: 'Re-Usable-External-Links-LWC',
+    repo:
+      'https://github.com/Coding-With-The-Force/Re-Usable-External-Links-LWC',
+    description:
+      'Re-usable external links cmp that can pop links in a new browser tab or lightning console tab, learning on cust metadata',
+    repoOwnerName: 'Coding With The Force',
+    repoOwnerLink: 'https://github.com/Coding-With-The-Force',
+    id: 1
+  },
+  {
     title: 'SLDS Illustration Cmp',
     repo: 'https://github.com/kacrouse/lwc-illustration',
     description:
@@ -246,8 +255,7 @@ export const componentListData = [
   {
     title: 'LWC Style Distributor',
     repo: 'https://github.com/foxcreation/LWC-Style-Distributor',
-    description:
-      'Style Distributor Lightning Web Component for Salesforce.',
+    description: 'Style Distributor Lightning Web Component for Salesforce.',
     repoOwnerName: 'Reinier van den Assum',
     repoOwnerLink: 'https://github.com/foxcreation',
     id: 1
