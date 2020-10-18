@@ -1,16 +1,27 @@
 <template>
   <div class="slds-box slds-theme_default">
     <div>
-      <input type="search" placeholder="Search components" oninput={handleSearchKeyInput} />
+      <input
+        type="search"
+        placeholder="Search components"
+        oninput={handleSearchKeyInput}
+      />
       <template if:true={components}>
-        <div class="slds-grid slds-grid_vertical-stretch slds-gutters slds-wrap">
+        <div
+          class="slds-grid slds-grid_vertical-stretch slds-gutters slds-wrap"
+        >
           <template for:each={components} for:item="component">
             <div
-              key={component.id}
+              key={component.repo}
               class="slds-col slds-large-size_1-of-3 slds-medium-size_1-of-2 slds-small-size_1-of-1 slds-m-bottom_small"
             >
-              <div class="component slds-grid slds-grid_vertical-stretch slds-wrap" style="height: 100%">
-                <a class="title slds-col slds-size_1-of-1" href={component.repo}>{component.title}</a>
+              <div
+                class="component slds-grid slds-grid_vertical-stretch slds-wrap"
+                style="height: 100%"
+              >
+                <a class="title slds-col slds-size_1-of-1" href={component.repo}
+                  >{component.title}</a
+                >
                 <div class="slds-text-body_regular slds-col slds-size_1-of-1">
                   {component.description}
                 </div>
