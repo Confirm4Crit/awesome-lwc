@@ -5,21 +5,20 @@
   "author": "Miles Robson",
   "bugs": "https://github.com/Miles Robson/awesomeLwc/issues",
   "dependencies": {
-    "@lwc/synthetic-shadow": "^1.7.14",
-    "@salesforce-ux/design-system": "^2.13.1",
-    "lightning-base-components": "^1.10.6-alpha",
-    "bulma": "^0.9.0",
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "helmet": "^4.2.0"
   },
   "devDependencies": {
-    "eslint": "^7.9.0",
     "husky": "^4.3.0",
-    "lint-staged": "^10.4.0",
+    "lint-staged": "^10.5.1",
+    "lwc-recipes-oss-ui-components": "^0.3.2",
     "lwc-services": "^2.2.3",
-    "npm-run-all": "^4.1.5",
-    "prettier": "^2.1.2"
+    "moment": "^2.29.1",
+    "prettier": "^2.1.2",
+    "@lwc/synthetic-shadow": "^1.0.0",
+    "@salesforce-ux/design-system": "^2.9.4",
+    "lightning-base-components": "^1.10.6-alpha"
   },
   "engines": {
     "node": ">=10.13.0",
