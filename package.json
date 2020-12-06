@@ -7,16 +7,17 @@
   "dependencies": {
     "@lwc/synthetic-shadow": "^1.7.14",
     "@salesforce-ux/design-system": "^2.13.1",
+    "lightning-base-components": "^1.10.6-alpha",
     "bulma": "^0.9.0",
     "compression": "^1.7.4",
     "express": "^4.17.1",
-    "helmet": "^4.1.1"
+    "helmet": "^4.2.0"
   },
   "devDependencies": {
     "eslint": "^7.9.0",
     "husky": "^4.3.0",
     "lint-staged": "^10.4.0",
-    "lwc-services": "^2.1.9",
+    "lwc-services": "^2.2.3",
     "npm-run-all": "^4.1.5",
     "prettier": "^2.1.2"
   },
