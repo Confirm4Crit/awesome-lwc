@@ -1,5 +1,6 @@
 import { LightningElement } from 'lwc';
 import { tabItems, tabElements } from './tabs';
+import '@lwc/synthetic-shadow';
 
 export default class App extends LightningElement {
   currentNavigationItem = 'components';
@@ -53,9 +54,7 @@ export default class App extends LightningElement {
 
   hideCurrentNavigationItemFromNav() {
     this.tabItems[
-      this.tabElements[
-      this.tabElements.indexOf(this.currentNavigationItem)
-      ]
+      this.tabElements[this.tabElements.indexOf(this.currentNavigationItem)]
     ].visible = false;
   }
 

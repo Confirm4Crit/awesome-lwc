@@ -5,7 +5,16 @@
     <my-githubcorner></my-githubcorner>
   </header>
   <main class="content">
-    <my-tabbar tab-items={tabItems} selected-tab={currentNavigationItem} oncategorychange={handleCategoryChange}>
+    <lightning-card title="Hello">
+      <lightning-button label="New" slot="actions"></lightning-button>
+      <p class="slds-p-horizontal_small">Card Body (custom component)</p>
+      <p slot="footer">Card Footer</p>
+    </lightning-card>
+    <my-tabbar
+      tab-items={tabItems}
+      selected-tab={currentNavigationItem}
+      oncategorychange={handleCategoryChange}
+    >
     </my-tabbar>
     <div>
       <template if:true={tabItems.components.visible}>
