@@ -153,6 +153,9 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
 -   [LWC Action](https://github.com/andrii-solokh/LWCAction) ([@andrii-solokh](https://github.com/andrii-solokh))
 
+-   [Image Censor Component](https://github.com/arufian/Image-Censor-Lightning-Web-Component) (Alfian Busyro, [@arufian](https://github.com/arufian))
+    A photo editor to censor or block sensitive data
+
 ---
 
 ## Locker Safe JS Resources
