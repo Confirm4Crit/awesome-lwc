@@ -298,5 +298,12 @@ export const componentListData = [
       'Community Cookie Consent allows you to display a cookie notice to your customers and gain their consent when they use your community.',
     repoOwnerName: 'Salesforce Labs',
     repoOwnerLink: 'https://github.com/SalesforceLabs'
+  },
+  {
+    title: 'Image Censor Component',
+    repo: 'https://github.com/arufian/Image-Censor-Lightning-Web-Component',
+    description: 'Image or photo editor to censor or block sensitive data',
+    repoOwnerName: 'Alfian Busyro',
+    repoOwnerLink: 'https://github.com/arufian'
   }
 ];
