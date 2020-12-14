@@ -1,64 +1,65 @@
 {
-  "name": "awesomeLwc",
-  "description": "My amazing LWC app",
-  "version": "0.0.1",
-  "author": "Miles Robson",
-  "bugs": "https://github.com/Miles Robson/awesomeLwc/issues",
-  "dependencies": {
-    "@lwc/synthetic-shadow": "^1.7.14",
-    "@salesforce-ux/design-system": "^2.13.1",
-    "bulma": "^0.9.0",
-    "compression": "^1.7.4",
-    "express": "^4.17.1",
-    "helmet": "^4.1.1"
-  },
-  "devDependencies": {
-    "eslint": "^7.9.0",
-    "husky": "^4.3.0",
-    "lint-staged": "^10.4.0",
-    "lwc-services": "^2.1.9",
-    "npm-run-all": "^4.1.5",
-    "prettier": "^2.1.2"
-  },
-  "engines": {
-    "node": ">=10.13.0",
-    "npm": ">=6.4.1",
-    "yarn": ">=1.9.4"
-  },
-  "homepage": "https://github.com/Miles Robson/awesomeLwc",
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
-  "keywords": [
-    "lwc"
-  ],
-  "license": "MIT",
-  "lint-staged": {
-    "**/*.{css,html,js,json,md,ts,yaml,yml}": [
-      "prettier --write"
+    "name": "awesomeLwc",
+    "description": "My amazing LWC app",
+    "version": "0.0.1",
+    "author": "Miles Robson",
+    "bugs": "https://github.com/Miles Robson/awesomeLwc/issues",
+    "dependencies": {
+        "compression": "^1.7.4",
+        "express": "^4.17.1",
+        "helmet": "^4.2.0"
+    },
+    "devDependencies": {
+        "@lwc/synthetic-shadow": "^1.0.0",
+        "@salesforce-ux/design-system": "^2.9.4",
+        "eslint": "^7.9.0",
+        "husky": "^4.3.0",
+        "lightning-base-components": "^1.10.6-alpha",
+        "lint-staged": "^10.5.1",
+        "lwc-recipes-oss-ui-components": "^0.3.2",
+        "lwc-services": "^2.2.3",
+        "moment": "^2.29.1",
+        "prettier": "^2.1.2"
+    },
+    "engines": {
+        "node": ">=10.13.0",
+        "npm": ">=6.4.1",
+        "yarn": ">=1.9.4"
+    },
+    "homepage": "https://github.com/Miles Robson/awesomeLwc",
+    "husky": {
+        "hooks": {
+            "pre-commit": "lint-staged"
+        }
+    },
+    "keywords": [
+        "lwc"
     ],
-    "./src/**/*.js": [
-      "eslint"
-    ]
-  },
-  "repository": "Miles Robson/awesomeLwc",
-  "scripts": {
-    "build": "lwc-services build -m production",
-    "build:development": "lwc-services build",
-    "lint": "eslint ./src/**/*.js",
-    "prettier": "prettier --write \"**/*.{css,html,js,json,md,ts,yaml,yml}\"",
-    "prettier:verify": "prettier --list-different \"**/*.{css,html,js,json,md,ts,yaml,yml}\"",
-    "serve": "run-p serve:client serve:api",
-    "serve:api": "node src/server/api.js",
-    "serve:client": "node scripts/server.js",
-    "test:unit": "lwc-services test:unit",
-    "test:unit:coverage": "lwc-services test:unit --coverage",
-    "test:unit:debug": "lwc-services test:unit --debug",
-    "test:unit:watch": "lwc-services test:unit --watch",
-    "watch": "lwc-services watch",
-    "watch:client": "lwc-services watch",
-    "watch:server": "nodemon"
-  }
+    "license": "MIT",
+    "lint-staged": {
+        "**/*.{css,html,js,json,md,ts,yaml,yml}": [
+            "prettier --write"
+        ],
+        "./src/**/*.js": [
+            "eslint"
+        ]
+    },
+    "repository": "Miles Robson/awesomeLwc",
+    "scripts": {
+        "build": "lwc-services build -m production",
+        "build:development": "lwc-services build",
+        "lint": "eslint ./src/**/*.js",
+        "prettier": "prettier --write \"**/*.{css,html,js,json,md,ts,yaml,yml}\"",
+        "prettier:verify": "prettier --list-different \"**/*.{css,html,js,json,md,ts,yaml,yml}\"",
+        "serve": "run-p serve:client serve:api",
+        "serve:api": "node src/server/api.js",
+        "serve:client": "node scripts/server.js",
+        "test:unit": "lwc-services test:unit",
+        "test:unit:coverage": "lwc-services test:unit --coverage",
+        "test:unit:debug": "lwc-services test:unit --debug",
+        "test:unit:watch": "lwc-services test:unit --watch",
+        "watch": "lwc-services watch",
+        "watch:client": "lwc-services watch",
+        "watch:server": "nodemon"
+    }
 }

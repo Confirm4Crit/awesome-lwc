@@ -1,7 +1,13 @@
 {
-  "modules": [
-    {
-      "dir": "src/modules"
-    }
-  ]
+    "modules": [
+        {
+            "dir": "src/modules"
+        },
+        {
+            "npm": "lwc-recipes-oss-ui-components"
+        },
+        {
+            "npm": "lightning-base-components"
+        }
+    ]
 }

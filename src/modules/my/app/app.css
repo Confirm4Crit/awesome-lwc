@@ -1,19 +1,19 @@
 .content {
-  padding: 0 0rem;
+    padding: 0 0rem;
 }
 header {
-  padding: 1rem;
-  display: flex;
-  color: #ffffff;
-  background: #0288d1;
-  box-shadow: 0 4px 3px rgba(1, 87, 155, 0.5);
-  align-items: center;
+    padding: 1rem;
+    display: flex;
+    color: #ffffff;
+    background: #0288d1;
+    box-shadow: 0 4px 3px rgba(1, 87, 155, 0.5);
+    align-items: center;
 }
 header img {
-  height: 3rem;
-  margin-right: 0.3rem;
+    height: 3rem;
+    margin-right: 0.3rem;
 }
 header h2 {
-  font-size: 1.75rem;
-  font-weight: 300;
+    font-size: 1.75rem;
+    font-weight: 300;
 }

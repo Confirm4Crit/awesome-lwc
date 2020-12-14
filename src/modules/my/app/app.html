@@ -1,22 +1,32 @@
 <template>
-  <header>
-    <img src="resources/lwc.png" alt="App logo" />
-    <h2>Awesome LWC</h2>
-    <my-githubcorner></my-githubcorner>
-  </header>
-  <main class="content">
-    <my-tabbar tab-items={tabItems} selected-tab={currentNavigationItem} oncategorychange={handleCategoryChange}>
-    </my-tabbar>
-    <div>
-      <template if:true={tabItems.components.visible}>
-        <my-componentlist></my-componentlist>
-      </template>
-      <template if:true={tabItems.lockersafejs.visible}>
-        <my-lockersafejs></my-lockersafejs>
-      </template>
-      <template if:true={tabItems.learning.visible}>
-        <my-learning></my-learning>
-      </template>
-    </div>
-  </main>
+    <header>
+        <img src="resources/lwc.png" alt="App logo" />
+        <h2>Awesome LWC</h2>
+        <my-githubcorner></my-githubcorner>
+    </header>
+    <main class="content">
+        <!-- Working LWC Base Cmp Example -->
+        <lightning-card title="Hello">
+            <lightning-button label="New" slot="actions"></lightning-button>
+            <p class="slds-p-horizontal_small">Card Body (custom component)</p>
+            <p slot="footer">Card Footer</p>
+        </lightning-card>
+        <my-tabbar
+            tab-items={tabItems}
+            selected-tab={currentNavigationItem}
+            oncategorychange={handleCategoryChange}
+        >
+        </my-tabbar>
+        <div>
+            <template if:true={tabItems.components.visible}>
+                <my-componentlist></my-componentlist>
+            </template>
+            <template if:true={tabItems.lockersafejs.visible}>
+                <my-lockersafejs></my-lockersafejs>
+            </template>
+            <template if:true={tabItems.learning.visible}>
+                <my-learning></my-learning>
+            </template>
+        </div>
+    </main>
 </template>
