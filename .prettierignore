@@ -8,4 +8,4 @@ lib/
 dist/
 
 # Default resources folder
-src/client/resources
+src/resources

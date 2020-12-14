@@ -1,0 +1,37 @@
+.greet {
+    font-size: xx-large;
+}
+
+.fade-fast {
+    opacity: 0;
+    animation: fade-in 1s;
+}
+
+.fade-slow {
+    opacity: 0;
+    animation: fade-in 5s;
+}
+
+.fade-medium {
+    opacity: 0;
+    animation: fade-in 2s;
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+    35% {
+        opacity: 1;
+    }
+    65% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.hide {
+    opacity: 0;
+}
