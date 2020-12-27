@@ -218,11 +218,10 @@ export const componentListData = [
     },
     {
         title: 'LWC Router',
-        repo: 'https://github.com/prashantk0001/lwc-router',
-        description:
-            'Simple Router For Standalone LWC Single Page Application that works with communities, standalone lightning/aura applications.',
-        repoOwnerName: 'Prashant Kashyap',
-        repoOwnerLink: 'https://github.com/prashantk0001'
+        repo: 'https://github.com/chandrakiran-dev/lwc-router',
+        description: 'Routing functionality for the Lightning Web Component',
+        repoOwnerName: 'Chandra Kiran',
+        repoOwnerLink: 'https://github.com/chandrakiran-dev'
     },
     {
         title: 'LWC Style Distributor',
