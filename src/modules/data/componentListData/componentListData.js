@@ -177,6 +177,14 @@ export const componentListData = [
         repoOwnerLink: 'https://github.com/gavignon'
     },
     {
+        title: 'LWC Stencil',
+        repo: 'https://github.com/cesarParra/lightning-stencil',
+        description:
+            "Make your components feel faster by using building stencil (skeleton) that closely match your component's final output",
+        repoOwnerName: 'Cesar Parra',
+        repoOwnerLink: 'https://github.com/cesarParra'
+    },
+    {
         title: 'Re-Usable-External-Links-LWC',
         repo:
             'https://github.com/Coding-With-The-Force/Re-Usable-External-Links-LWC',
