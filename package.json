@@ -17,7 +17,7 @@
         "lightning-base-components": "^1.10.6-alpha",
         "lint-staged": "^10.5.1",
         "lwc-recipes-oss-ui-components": "^0.3.2",
-        "lwc-services": "^2.2.3",
+        "lwc-services": "^3.0.4",
         "moment": "^2.29.1",
         "prettier": "^2.1.2"
     },
