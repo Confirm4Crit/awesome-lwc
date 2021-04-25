@@ -142,6 +142,10 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 -   [Tilewall](https://github.com/Dogeforce/tilewall-lwc) ([@Dogeforce](https://github.com/Dogeforce))
 
     A component that displays a grid like GitHub's commit history.
+    
+-   [LWC-OTP](https://github.com/Dogeforce/lwc-otp) ([@Dogeforce](https://github.com/Dogeforce))
+
+    A component that displays OTP codes for a given secret stored in a record.
 
 -   LWC [Redux](https://github.com/prashantk0001/lwc-redux) and [Router](https://github.com/prashantk0001/lwc-router)
 
