@@ -347,5 +347,12 @@ export const componentListData = [
             'Same as my other AuraMultiSelect, except uses pills to show selected items.',
         repoOwnerName: 'Caspar Harmer',
         repoOwnerLink: 'https://github.com/rapsacnz'
+    },
+    {
+        title: 'LWC-OTP',
+        repo: 'https://github.com/Dogeforce/lwc-otp',
+        description: 'A component that displays OTP codes for a given secret stored in a record.',
+        repoOwnerName: 'Dogeforce',
+        repoOwnerLink: 'https://github.com/Dogeforce'
     }
 ];
