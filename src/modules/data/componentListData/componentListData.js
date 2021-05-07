@@ -326,38 +326,6 @@ export const componentListData = [
         repoOwnerLink: 'https://github.com/arufian'
     },
     {
-        title: 'Einstein Bots UI Recipe',
-        repo: 'https://github.com/shunkosa/einstein-bots-ui-recipe',
-        description:
-            'Provides rich user interface by LWC lightningsnapin-base-chat-message base component in Salesforce Einstein Bots and Embedded Service for Web.',
-        repoOwnerName: 'Shun Kosaka',
-        repoOwnerLink: 'https://github.com/shunkosa'
-    },
-    {
-        title: 'Lightning Barcode Scanner',
-        repo: 'https://github.com/SFDC-Assets/Lightning-Barcode-Scanner',
-        description:
-            'A Salesforce Lightning web component that lets you scan a barcode from a mobile device and supports executing custom flows or Apex classes after scanning.',
-        repoOwnerName: 'SFDC Assets',
-        repoOwnerLink: 'https://github.com/SFDC-Assets'
-    },
-    {
-        title: 'Apex QueryMore Example',
-        repo: 'https://github.com/DNLZ/Apex-QueryMore-Example',
-        description:
-            'An example that demonstrates a technique for building "QueryMore" like functionality in Apex, to allow infinite scrolling',
-        repoOwnerName: 'Daniel Zeidler',
-        repoOwnerLink: 'https://github.com/DNLZ'
-    },
-    {
-        title: 'MultiSelect',
-        repo: 'https://github.com/rapsacnz/MultiSelect',
-        description:
-            'Same as my other AuraMultiSelect, except uses pills to show selected items.',
-        repoOwnerName: 'Caspar Harmer',
-        repoOwnerLink: 'https://github.com/rapsacnz'
-    },
-    {
         title: 'LWC-OTP',
         repo: 'https://github.com/Dogeforce/lwc-otp',
         description: 'A component that displays OTP codes for a given secret stored in a record.',
