@@ -185,6 +185,15 @@ export const componentListData = [
         repoOwnerLink: 'https://github.com/cesarParra'
     },
     {
+        title: 'Ultra Enhanced Related ListC',
+        repo:
+            'https://github.com/Coding-With-The-Force/Re-Usable-External-Links-LWC',
+        description:
+            'LWC that allows for a more enhanced related list. Mass deletes, mass edits, pagination and much more',
+        repoOwnerName: 'Coding With The Force',
+        repoOwnerLink: 'https://github.com/Coding-With-The-Force'
+    },
+    {
         title: 'Re-Usable-External-Links-LWC',
         repo:
             'https://github.com/Coding-With-The-Force/Re-Usable-External-Links-LWC',
