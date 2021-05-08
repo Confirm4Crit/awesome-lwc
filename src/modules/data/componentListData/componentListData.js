@@ -187,7 +187,7 @@ export const componentListData = [
     {
         title: 'Ultra Enhanced Related ListC',
         repo:
-            'https://github.com/Coding-With-The-Force/Re-Usable-External-Links-LWC',
+            'https://github.com/Coding-With-The-Force/Ultra_Enhanced_Related_List',
         description:
             'LWC that allows for a more enhanced related list. Mass deletes, mass edits, pagination and much more',
         repoOwnerName: 'Coding With The Force',
@@ -360,7 +360,8 @@ export const componentListData = [
     {
         title: 'LWC-OTP',
         repo: 'https://github.com/Dogeforce/lwc-otp',
-        description: 'A component that displays OTP codes for a given secret stored in a record.',
+        description:
+            'A component that displays OTP codes for a given secret stored in a record.',
         repoOwnerName: 'Dogeforce',
         repoOwnerLink: 'https://github.com/Dogeforce'
     }
