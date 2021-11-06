@@ -364,5 +364,67 @@ export const componentListData = [
             'A component that displays OTP codes for a given secret stored in a record.',
         repoOwnerName: 'Dogeforce',
         repoOwnerLink: 'https://github.com/Dogeforce'
+    },
+    {
+        title: 'SimpleGauge',
+        repo: 'https://github.com/eFrontForce/SimpleGauge',
+        description:
+            'Simply display percent fields using a gauge',
+        repoOwnerName: 'eFrontForce',
+        repoOwnerLink: 'https://github.com/eFrontForce'
+    },
+    {
+        title: 'VideoViewer',
+        repo: 'https://github.com/SalesforceLabs/VideoViewer',
+        description:
+            'This lightning web component allows users to play video files natively in Salesforce. No need to download a video file to view it.',
+        repoOwnerName: 'Salesforce Labs',
+        repoOwnerLink: 'https://github.com/SalesforceLabs'
+    },
+    {
+        title: 'GET GEOLOCATION',
+        repo: 'https://github.com/SFDC-Assets/Get-Geolocation',
+        description:
+            'This package contains a Lightning component that gets a device\'s geolocation and returns it to a Salesforce flow',
+        repoOwnerName: 'SFDC Assets',
+        repoOwnerLink: 'https://github.com/SFDC-Assets'
+    },
+    {
+        title: 'Get Nearby Records',
+        repo: 'https://github.com/SFDC-Assets/Get-Nearby-Records',
+        description:
+            'This package contains a Lightning component that finds records of a particular Salesforce object that are geographically near a given location.',
+        repoOwnerName: 'SFDC Assets',
+        repoOwnerLink: 'https://github.com/SFDC-Assets'
+    },
+    {
+        title: 'Twitter Feed',
+        repo: 'https://github.com/SFDC-Assets/Twitter-Feed',
+        description:
+            'This package contains a Lightning component, VisualForce page, and other support to embed a Twitter feed in a Salesforce Lightning record page.',
+        repoOwnerName: 'SFDC Assets',
+        repoOwnerLink: 'https://github.com/SFDC-Assets'
+    },
+    {
+        title: 'ExcelUpload',
+        repo: 'https://github.com/SalesforceLabs/ExcelUpload',
+        description:
+            'Extract values from an Excel sheet to record fields while uploading',
+        repoOwnerName: 'Salesforce Labs',
+        repoOwnerLink: 'https://github.com/SalesforceLabs'
+    },
+    {
+        title: 'RecordClone',
+        repo: 'https://github.com/SalesforceLabs/RecordClone',
+        description:
+            'Lightning component to clone record with child records together',
+        repoOwnerName: 'Salesforce Labs',
+        repoOwnerLink: 'https://github.com/SalesforceLabs'
+    },
+    {
+        title: 'ImageUploader',
+        repo: 'https://github.com/SalesforceLabs/RecordClone',
+        repoOwnerName: 'Salesforce Labs',
+        repoOwnerLink: 'https://github.com/SalesforceLabs'
     }
 ];
