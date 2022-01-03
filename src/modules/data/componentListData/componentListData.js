@@ -1,5 +1,13 @@
 export const componentListData = [
     {
+        title: 'Avonni Components',
+        repo: 'https://github.com/avonni/base-components-sfdx',
+        description:
+            'Avonni Components are customizable pre-made components built using the Lightning Web Components standards.',
+        repoOwnerName: 'Avonni',
+        repoOwnerLink: 'https://github.com/avonni'
+    },
+    {
         title: 'LWCC',
         repo: 'https://github.com/SalesforceLabs/LightningWebChartJS',
         description:
