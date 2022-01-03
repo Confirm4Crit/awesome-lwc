@@ -431,7 +431,7 @@ export const componentListData = [
     },
     {
         title: 'ImageUploader',
-        repo: 'https://github.com/SalesforceLabs/RecordClone',
+        repo: 'https://github.com/SalesforceLabs/ImageUploader',
         repoOwnerName: 'Salesforce Labs',
         repoOwnerLink: 'https://github.com/SalesforceLabs'
     }
