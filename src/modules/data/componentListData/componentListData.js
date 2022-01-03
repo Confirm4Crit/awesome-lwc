@@ -432,6 +432,7 @@ export const componentListData = [
     {
         title: 'ImageUploader',
         repo: 'https://github.com/SalesforceLabs/ImageUploader',
+        description:'Image Uploader',
         repoOwnerName: 'Salesforce Labs',
         repoOwnerLink: 'https://github.com/SalesforceLabs'
     }
