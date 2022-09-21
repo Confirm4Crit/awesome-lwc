@@ -125,18 +125,18 @@ export const componentListData = [
     },
     {
         title: 'lwc-lookup',
-        repo: 'https://github.com/jlyon87/lwc-lookup',
+        repo: 'https://github.com/justin-lyon/lwc-lookup',
         description: 'An SObject Generic Lookup field with LWC',
         repoOwnerName: 'Justin Lyon',
-        repoOwnerLink: 'https://github.com/jlyon87'
+        repoOwnerLink: 'https://github.com/justin-lyon'
     },
     {
         title: 'lwc-metadata-picker',
-        repo: 'https://github.com/jlyon87/lwc-metadata-picker',
+        repo: 'https://github.com/justin-lyon/lwc-metadata-picker',
         description:
             'A Custom Metadata Lookup field that allows to filter by a picklist.',
         repoOwnerName: 'Justin Lyon',
-        repoOwnerLink: 'https://github.com/jlyon87'
+        repoOwnerLink: 'https://github.com/justin-lyon'
     },
     {
         title: 'Dynamic Multi Row Editable Tables using LWC',

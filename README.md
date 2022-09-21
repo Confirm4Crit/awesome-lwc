@@ -61,11 +61,11 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 
     A lookup component with results as an editable two part datatable.
 
--   [lwc-lookup](https://github.com/jlyon87/lwc-lookup) (Justin Lyon, [@jlyon87](https://github.com/jlyon87))
+-   [lwc-lookup](https://github.com/justin-lyon/lwc-lookup) (Justin Lyon, [@justin-lyon](https://github.com/justin-lyon))
 
     An SObject Generic Lookup field with LWC.
 
--   [lwc-metadata-picker](https://github.com/jlyon87/lwc-metadata-picker) (Justin Lyon, [@jlyon87](https://github.com/jlyon87))
+-   [lwc-metadata-picker](https://github.com/justin-lyon/lwc-metadata-picker) (Justin Lyon, [@justin-lyon](https://github.com/justin-lyon))
 
     A Custom Metadata Lookup field that allows to filter by a picklist.
 
@@ -142,7 +142,7 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 -   [Tilewall](https://github.com/Dogeforce/tilewall-lwc) ([@Dogeforce](https://github.com/Dogeforce))
 
     A component that displays a grid like GitHub's commit history.
-    
+
 -   [LWC-OTP](https://github.com/Dogeforce/lwc-otp) ([@Dogeforce](https://github.com/Dogeforce))
 
     A component that displays OTP codes for a given secret stored in a record.
