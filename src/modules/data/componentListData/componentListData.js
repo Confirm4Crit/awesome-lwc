@@ -435,5 +435,12 @@ export const componentListData = [
         description:'Image Uploader',
         repoOwnerName: 'Salesforce Labs',
         repoOwnerLink: 'https://github.com/SalesforceLabs'
+    },
+    {
+        title: 'Full Calendar',
+        repo: 'https://github.com/effordDev/sf-calendar',
+        description:'Full Calender implementation for custom event objects',
+        repoOwnerName: 'effordDev',
+        repoOwnerLink: 'https://github.com/effordDev'
     }
 ];
