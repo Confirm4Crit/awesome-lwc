@@ -256,6 +256,9 @@ I am individually not focusing too hard on LWC OSS right now, but I don't want t
 
 -   [LWC SOQL Builder](https://github.com/lwc-soql-builder/lwc-soql-builder)
 -   [LWC OSS Storybook](https://github.com/reiniergs/lwc-storybooks-poc)
+-   [Fandry UI](https://github.com/rahulgawale/fandryui) (Rahul Gawale, [@rahulgawale](https://github.com/rahulgawale))
+
+   FandryUI is shadcn styled LWC component library for both LWR OSS and Salesforce platform. It runs via a CLI (eg fandry add) that copies component source code straight into your project so you own the code. It provides no-black-box components for LWC that can be modified and extended easily.
 
 ---
 
