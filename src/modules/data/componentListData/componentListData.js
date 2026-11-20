@@ -442,5 +442,12 @@ export const componentListData = [
         description:'Full Calender implementation for custom event objects',
         repoOwnerName: 'effordDev',
         repoOwnerLink: 'https://github.com/effordDev'
+    },
+  {
+        title: 'LWC Signals',
+        repo: 'https://github.com/leandrobrunner/lwc-signals',
+        description: 'A lightweight reactive state management library for Salesforce Lightning Web Components.',
+        repoOwnerName: 'Leandro Brunner',
+        repoOwnerLink: 'https://github.com/leandrobrunner'
     }
 ];

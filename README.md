@@ -160,6 +160,10 @@ Join the [SFXD Discord Community](https://discordapp.com/invite/JG4Bc4q)!
 -   [Image Censor Component](https://github.com/arufian/Image-Censor-Lightning-Web-Component) (Alfian Busyro, [@arufian](https://github.com/arufian))
     A photo editor to censor or block sensitive data
 
+-   [LWC Signals](https://github.com/leandrobrunner/lwc-signals)
+
+    A lightweight reactive state management library for Salesforce Lightning Web Components.
+
 ---
 
 ## Locker Safe JS Resources
@@ -183,6 +187,8 @@ As the Locker Service adjusts, I'll revisit this section to add resources that m
 -   [Chroma.js](https://github.com/gka/chroma.js/) Color manipulation library, useful with D3/Chart JS.
 
 -   [Signature Pad](https://github.com/szimek/signature_pad) HTML5 Canvas for accepting signatures.
+
+-   [LWC Signals](https://github.com/leandrobrunner/lwc-signals) A lightweight reactive state management library for Salesforce Lightning Web Components.
 
 ---
 
